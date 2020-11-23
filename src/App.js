@@ -122,7 +122,7 @@ function App() {
     <>
       {alert.show && <Alert type={alert.type} text={alert.text} />}
 
-      <h1>love calculator</h1>
+      <h1>budget calculator</h1>
       <main className="App">
 
         <ExpenseForm
